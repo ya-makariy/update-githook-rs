@@ -1,5 +1,5 @@
 # Update githook
-[![Actions Status](https://github.com/ya-makariy/update-githook-rs/workflows/publish-to-crates/badge.svg)](https://github.com/ya-makariy/update-githook-rs/actions)  
+[![Actions Status](https://github.com/ya-makariy/update-githook-rs/actions/workflows/publish-to-crates.yml/badge.svg)](https://github.com/ya-makariy/update-githook-rs/actions)  
 ## What does this app do
 Checks the commit text in the push for compliance with [Conventional Commits] and [Angular convention]
 
