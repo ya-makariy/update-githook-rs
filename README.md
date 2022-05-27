@@ -4,7 +4,7 @@
 Checks the commit text in the push for compliance with [Conventional Commits] and [Angular convention]
 
 ## Installation
-Move binary file `custom_hooks` dir in project directory and rename it to `update`.  
+Move binary file to `custom_hooks` dir in project directory and rename it to `update`.  
 The file must be executable and owned by the git user.
 
 [Conventional Commits]: https://www.conventionalcommits.org/en/v1.0.0/
